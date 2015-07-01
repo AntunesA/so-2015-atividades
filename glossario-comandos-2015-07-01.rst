@@ -4,12 +4,16 @@ Glossário de comandos
 
 :Disciplina: Fundamentos de Sistemas Operacionais
 :Professor: Jurandy Soares
-:Nome: Seu nome completo
-:Matrícula: Sua matrícula
+:Nome: Arthur Antunes de Melo Rodrigues
+:Matrícula: 20121144010150
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  1: O comando cat vem de conCATenação. Ele irá concatenar arquivos, ou seja, irá colocar um arquivo dentro de outro, ligar um arquivo com o outro.
+  EXEMPLO 1: cat arquivo1  arquivo2
+  2: Ele também serve, para criar um arquivo qualquer!
+  EXEMPLO 2: cat arquivo_que_existe.txt
+        Olá, me chamo Arthur!
 
 
 cd
